@@ -4,7 +4,7 @@
 
 > 设计并制作一台轮式运输机器人，具有自动扫描颜色识别信息、运载、投放 铁质轻型包裹（可使用磁铁、电磁铁）等功能。仓储作业场平面尺寸为 2400mm  *1200mm。
 
-![image-20210531231808909](C:\Users\z9283\AppData\Roaming\Typora\typora-user-images\image-20210531231808909.png)
+![image-20210531231808909](https://github.com/picronsin/2021-G_group/blob/master/image-20210531231808909.png?raw=true)
 
 ### 要求
 
